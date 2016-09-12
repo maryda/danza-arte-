@@ -1,0 +1,242 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+.escuela{
+
+	color: #0B0B3B;
+    font-size: 29px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+ul{
+	margin-left: 334px;
+}
+
+li{
+
+	display: table-cell;
+	padding: 38px;
+
+
+}
+
+a{
+	text-align: center;
+	color:#5858FA;
+	text-decoration: none;
+	
+}
+
+
+/*-----------------------------------------------*/
+
+.imgdanza{
+	background-image: url(../img/dance_7.jpg);
+	padding: 178px;
+	width: 984px;
+}
+
+.nosotros{
+	position: absolute;
+    top: 409px;
+    left: 489px;
+    color: #FFFFFF;
+    font-size: 23px;
+
+}
+
+.parrafo1{
+	color: #FFFFFF;
+    font-size: 14px;
+    position: relative;
+    left: 200px;
+    top: 90px;
+
+   
+}
+
+.contenido{
+    background: rgb(14,13,13);
+    opacity: 0.5;
+    width: 450px;
+    height: 177px;
+    position: relative;
+    top: -36px;
+    left: 180px;
+}
+
+/*----------------------------------------------*/
+.imgfondo{
+	background-image: url(../img/cubes.png);
+    height: 312px;
+    position: relative;
+    bottom: 17px;
+    width: 1340px;
+}
+.container{
+
+
+}
+.ul2{
+	margin-left: 334px;
+}
+
+.li2{
+
+	display: table-cell;
+	padding: 38px;
+	text-align:center;
+    
+
+}
+
+.a2{
+	
+	color: #6E6E6E;
+    text-decoration: none;
+    margin: 93px;
+    position: relative;
+    left: -250px;
+    font-size: 25px;
+
+}
+
+.parrafo2{
+	font-size: 15px;
+	color: #6E6E6E;
+	position: relative;
+    left: 183px;
+	
+}
+
+.parrafo3{
+	font-size: 15px;
+	color: #6E6E6E;
+	position: relative;
+	left: 540px;
+    bottom: 122px;
+	
+}
+
+.parrafo4{
+	font-size: 15px;
+	color: #6E6E6E;
+	position: relative;
+    left: 855px;
+    bottom: 246px;
+    
+	
+}
+/*---------------------------------------------*/
+.instructores{
+	color: #0B0B3B;
+    font-size: 29px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.prof1{
+	width: 244px;
+	margin:2%;
+	position: relative;
+}
+
+.prof2{
+	width: 244px;
+	height: 247px;
+    margin: 5%;
+    position: relative;
+    top: -345px;
+    height: 247px;
+    left:261px;
+}
+
+.prof3{
+	width: 244px;
+    margin : 2%;
+    height: 245px;
+    position: relative;
+    bottom: 685px;
+    left: 663px;
+    
+}
+
+.prof4{
+	position: relative;
+    bottom: 960px;
+    height: 241px;
+    left: 1000px;
+    width: 241px;
+
+
+}
+
+.prof5{
+	    position: relative;
+    bottom: 960px;
+    height: 241px;
+    width: 241px;
+    margin: 2%;
+    float: left;
+    left: 44px;
+
+
+
+}
+
+.prof6{
+       position: relative;
+    bottom: 960px;
+    height: 241px;
+    width: 241px;
+    margin: 2%;
+    float: left;
+    left: 44px;
+
+
+}
+
+.prof7{
+	    position: relative;
+    bottom: 960px;
+    height: 241px;
+    width: 241px;
+    margin: 2%;
+    float: left;
+    left: 44px;
+
+
+
+}
+
+.prof8{
+	    position: relative;
+    bottom: 960px;
+    height: 241px;
+    width: 241px;
+    margin: 2%;
+    float: left;
+    left: 44px;
+
+
+
+}
+
+/*-----------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
